@@ -31,13 +31,21 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-size-adjust: 100%;
 	font-weight: 400;
+<<<<<<< HEAD
+	background: #F9F4EF;
+=======
 	background: #fff;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 }
 
 /* #Typography
 ================================================== */
 	h1, h2, h3, h4, h5, h6, .heading_font {
+<<<<<<< HEAD
+		color: #F9F4EF ;
+=======
 		color: #333;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 		font-family: "Montserrat", Arial, Helvetica, sans-serif;
 		font-weight: normal;
 		letter-spacing: -0.02em;
@@ -1000,7 +1008,11 @@ input.btn_brown.btn_outline:hover, a.btn_brown.btn_outline:hover, .btn_brown.btn
 }
 .tp-leftarrow.custom:hover, .tp-rightarrow.custom:hover {
   background: rgba(0,0,0,0.7)!important;
+<<<<<<< HEAD
+  color: #F9F4EF !important;
+=======
   color: #ffffff !important;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
   opacity: 1!important;
 }
 .tp-rightarrow.custom {
@@ -1023,7 +1035,11 @@ input.btn_brown.btn_outline:hover, a.btn_brown.btn_outline:hover, .btn_brown.btn
   transition: all .25s;	
 }
 .tp-rightarrow.custom:hover:before, .tp-leftarrow.custom:hover:before {
+<<<<<<< HEAD
+	color: #F9F4EF !important;
+=======
 	color: #ffffff !important;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 }
 
 /* Rev slider arrows - Regular Arrows */
@@ -1260,7 +1276,11 @@ blockquote p, .post_description blockquote p{
 	top: 0px;
 	left: 0px;
 	right: 0px;
+<<<<<<< HEAD
+	background: #F9F4EF;
+=======
 	background: #fff;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 
 	box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05);
 	-moz-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05);
@@ -1280,7 +1300,12 @@ blockquote p, .post_description blockquote p{
 	-moz-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.2);
 	-webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.2);
 
+<<<<<<< HEAD
+	background: rgba(249, 244, 239, 0.97);
+
+=======
 	background: rgba(255,255,255,0.97);
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 }
 #header.mobile_force_relative_position { 
 	position: relative; 
@@ -1551,7 +1576,11 @@ header.transparent_header #logo #transparent_logo {
 	webkit-box-shadow: 0px 1px 8px rgba(0,0,0,0.1);
 	-moz-box-shadow: 0px 1px 8px rgba(0,0,0,0.1);
 	box-shadow: 0px 1px 8px rgba(0,0,0,0.1);
+<<<<<<< HEAD
+	background:#F9F4EF;	
+=======
 	background:#ffffff;	
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 	background: rgba(255,255,255,0.97);
 	border-top: 2px solid #08ada7;
 	opacity: 0;
@@ -2011,7 +2040,11 @@ header.transparent_header .custom_menu_6 #menu > ul > li:not(.boc_nav_button):ho
 	webkit-box-shadow: 0px 1px 4px rgba(0,0,0,0.1);
 	-moz-box-shadow: 0px 1px 4px rgba(0,0,0,0.1);
 	box-shadow: 0px 1px 4px rgba(0,0,0,0.1);
+<<<<<<< HEAD
+	background:#F9F4EF;	
+=======
 	background:#ffffff;	
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 	background: rgba(255,255,255,0.97);
 	border-top: 2px solid #08ada7;	
 	z-index: 1021;
@@ -2343,7 +2376,11 @@ header.transparent_header .custom_menu_6 #menu > ul > li:not(.boc_nav_button):ho
 .content_body {
 	position: relative;
 	z-index: 1;
+<<<<<<< HEAD
+	background: #F9F4EF;
+=======
 	background: #fff;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 	min-height: 596px;
 	/* Fix bottom scroller when full width rows and inner rows are present */
 	overflow: hidden;
@@ -2352,7 +2389,11 @@ header.transparent_header .custom_menu_6 #menu > ul > li:not(.boc_nav_button):ho
 /* Full width BGR Page Title holder */
 .page_title_bgr .full_container_page_title {
 	border-bottom: 1px solid #eee;
+<<<<<<< HEAD
+	background: #D4A373;
+=======
 	background: #fafafa;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 	padding: 0px 0;
 	margin-bottom: 56px;
 	min-height: 58px;
@@ -2362,7 +2403,11 @@ header.transparent_header .custom_menu_6 #menu > ul > li:not(.boc_nav_button):ho
 }
 
 .page_title_bgr.bgr_style1 .full_container_page_title {
+<<<<<<< HEAD
+	background: #F9F4EF url('images/page_head_bgr1.png') top center;
+=======
 	background: #fafafa url('images/page_head_bgr1.png') top center;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 }
 
 .page_title_bgr .full_container_page_title .page_heading {
@@ -2438,7 +2483,11 @@ header.transparent_header .custom_menu_6 #menu > ul > li:not(.boc_nav_button):ho
 .boc_heading.bgr_double span,
 .boc_heading.bgr_single span{
 	padding: 0 12px 0 0;
+<<<<<<< HEAD
+	background: #F9F4EF;
+=======
 	background: #fff;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 	display: inline-block;
 }
 .boc_heading.bgr_diagonal.center span,
@@ -2488,7 +2537,11 @@ header.transparent_header .custom_menu_6 #menu > ul > li:not(.boc_nav_button):ho
 
 .full_header {
 	border-bottom: 1px solid #eee;
+<<<<<<< HEAD
+	background: #F9F4EF;
+=======
 	background: #fbfbfb;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 	padding: 6px 0;
 }
 header.transparent_header:not(.scrolled) .full_header {
@@ -2578,7 +2631,11 @@ header.transparent_header.hide_subheader_on_scroll #subheader .section {
 	z-index: 10000;
 	overflow: visible!important;
 	display: none;
+<<<<<<< HEAD
+	background-color: rgba(200, 255, 0, 0.92);
+=======
 	background-color: rgba(0,0,0,0.92);
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 }
 .boc_search_border {
 	opacity: 0.4;
@@ -3335,7 +3392,11 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 }
 .price_column ul li.price_column_title {
 	background: #576363;
+<<<<<<< HEAD
+	color: #F9F4EF;
+=======
 	color: #ffffff;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 	font-size: 19px;
 	line-height: 30px;
 	padding: 14px 0;
@@ -7052,7 +7113,11 @@ img.empty_user_testimonial_image {
     margin-bottom: -1px;
     margin-top: -1px;
     padding: 7px 20px 7px 20px;
+<<<<<<< HEAD
+	background: #F9F4EF;
+=======
 	background: #FFFFFF;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 	color: #333;
 }
 
@@ -9245,7 +9310,11 @@ color: #d4d4d4;
 	clear: both;
 	overflow: auto;
 	margin: auto;
+<<<<<<< HEAD
+	background: #355070;
+=======
 	background: #222;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 	font-size: 14px;	
 	color: #7B8887;
 	padding-top: 52px;
@@ -9422,7 +9491,11 @@ color: #d4d4d4;
 	float: left;
 	margin-top: 2px;
 	margin-right: 10px;
+<<<<<<< HEAD
+	color: #F9F4EF;
+=======
 	color: #748188;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 }
 #footer.footer_light #powered {
 	margin-top: 3px;
@@ -9434,7 +9507,11 @@ color: #d4d4d4;
 .footer_btm {
 	clear: both;
 	padding: 20px 0px 20px;
+<<<<<<< HEAD
+	background: #52796F;
+=======
 	background: #121313;
+>>>>>>> 6ae7eda42409b1e91a9cd2c721e20554ac2620cc
 	border-top: 1px solid #2a2a2a;
 	margin-top: 16px;
 	overflow: hidden;
