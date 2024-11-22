@@ -1,28 +1,27 @@
-# Website WordPress
 
-Este repositorio contiene el respaldo del sitio web creado en WordPress. Aquí se incluye la estructura del proyecto, temas, plugins y configuraciones personalizadas.
+## Contribución
+
+¡Las contribuciones son bienvenidas! Si deseas colaborar, sigue estos pasos:
+
+1. Haz un fork de este repositorio.
+2. Crea una nueva rama para tu funcionalidad (`git checkout -b feature/nueva-funcionalidad`).
+3. Haz los cambios y haz un commit (`git commit -am 'Añadir nueva funcionalidad'`).
+4. Empuja tus cambios a tu repositorio remoto (`git push origin feature/nueva-funcionalidad`).
+5. Abre un pull request en este repositorio.
+
+## Despliegue
+
+Para desplegar este proyecto en producción, te recomendamos usar [Vercel](https://vercel.com/), que es la plataforma recomendada para proyectos de Next.js.
+
+1. Conecta tu cuenta de GitHub con Vercel.
+2. Elige el proyecto de tu repositorio.
+3. Configura las variables de entorno en Vercel según sea necesario.
+4. Despliega el proyecto.
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
 
 ---
 
-![Website Preview](tinnnn.png)
-
----
-
-## 📂 Estructura del Proyecto
-
-- **`wp-content`**: Contiene los temas, plugins y archivos cargados.
-- **`database.sql`**: Respaldo de la base de datos (si es necesario agregar una versión manejable).
-- **`README.md`**: Información sobre el proyecto.
-
-## 🌟 Características
-
-- **Temas personalizados**: Diseños adaptados según las necesidades.
-- **Plugins instalados**: Herramientas para optimizar SEO, formularios, y más.
-- **Configuraciones de WordPress**: Archivos básicos para garantizar el correcto funcionamiento.
-
-## 🚀 Cómo usar este repositorio
-
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/TusIdiomasNativos/WebsiteWordpress.git
-   cd WebsiteWordpress
+¡Gracias por revisar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en abrir un problema (issue) o crear una pull request. 🚀
